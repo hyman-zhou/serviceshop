@@ -5,6 +5,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>eureka01-7001</module>
+        <module>gateway-zuul-6001</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
